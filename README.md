@@ -1,3 +1,3 @@
 # spring
 
-Spring Framework Core Technologies 中文翻译
+Spring Framework核心技术中文版 v1.0
